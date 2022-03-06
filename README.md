@@ -39,19 +39,19 @@
 
 
 ## Buyer Persona
-Descripcion: Omar Ortiz. Edad 35 años. Socio de un despacho contable. Omar es una persona super energica. Siempre le gusta darlo todo en todo lo que hace, esto se ve reflejado en su trabajo, ya que es reconocido por sus colegas y clientes por siempre resolver sus asuntos en tiempo y forma. Estudio la licenciatura en contabilidad porque siempre sintio el llamado de ayudar a la gente que lo necesita en el ambito del manejo de sus bienes. Aprecia mucho su tiempo ya que le gusta pasar tiempo con su familia y amigos en cada ocacion que le es posible. Tiene una novia de hace años y actualmente estan pensando en casarse para formar su propia familia.
+<strong>Descripcion:</strong> Omar Ortiz. Edad 35 años. Socio de un despacho contable. Omar es una persona super energica. Siempre le gusta darlo todo en todo lo que hace, esto se ve reflejado en su trabajo, ya que es reconocido por sus colegas y clientes por siempre resolver sus asuntos en tiempo y forma. Estudio la licenciatura en contabilidad porque siempre sintio el llamado de ayudar a la gente que lo necesita en el ambito del manejo de sus bienes. Aprecia mucho su tiempo ya que le gusta pasar tiempo con su familia y amigos en cada ocacion que le es posible. Tiene una novia de hace años y actualmente estan pensando en casarse para formar su propia familia.
 
-Habilidades:Es muy bueno comunicandose, su capacidad de aprendizaje lo ayuda a resolver los problemas que tiene sus clientes debido a que se adapta sin problema a cada caso estudiando las todas las caracteristicas especificas de cada caso, cuenta con un buen sentido de servicio lo que le ayuda a ganarse la confianza de cada cliente y debido a que tiene el buen habito de leer, tiene una muy buen uso de las palabras lo que lo a hecho ganar bastantes clientes.
+<strong>Habilidades:</strong> Es muy bueno comunicandose, su capacidad de aprendizaje lo ayuda a resolver los problemas que tiene sus clientes debido a que se adapta sin problema a cada caso estudiando las todas las caracteristicas especificas de cada caso, cuenta con un buen sentido de servicio lo que le ayuda a ganarse la confianza de cada cliente y debido a que tiene el buen habito de leer, tiene una muy buen uso de las palabras lo que lo a hecho ganar bastantes clientes.
 
-Metas: Con su trabajo y el de sus compañeros anela hacer su despacho uno de los mejores de todo el estado, tambien le gustaria desarrollar otros negocios para vivir sin preocupacion y tener una gran familia.
+<strong>Metas:</strong> Con su trabajo y el de sus compañeros anela hacer su despacho uno de los mejores de todo el estado, tambien le gustaria desarrollar otros negocios para vivir sin preocupacion y tener una gran familia.
 
-Frustraciones: No haber podido consolidar aun el echo de tener su familia, la falta de tiempo para dedicarse a los pasatiempos que mas le gustan y tener que lidear con cuestiones legales de procesos largos y tediosos.
+<strong>Frustraciones:</strong> No haber podido consolidar aun el echo de tener su familia, la falta de tiempo para dedicarse a los pasatiempos que mas le gustan y tener que lidear con cuestiones legales de procesos largos y tediosos.
 
 ## Publico Objetivo
-### Perfil Geografico:
-### Perfil Demografico:
-### Perfil Psicografico
-### Perfil de comportamento:
+<strong>Perfil Geografico:</strong> Personas que vivan en Guanajuato de zonas urbanizadas.
+<strong>Perfil Demografico:</strong> Personas entre 20 a 50 años, con ingresos mayores a 20 mil pesos al mes, dueños o trabajadores de grandes emprezas o negocios y que tengan su propia vivienda.
+<strong>Perfil Psicografico:</strong> Personas que prioricen su tiempo, que sean nuevos o viejos en cuestion de problemas legales y que sobre todo que sean abiertos a intentar cosas nuevas.
+<strong>Perfil de comportamento:</strong> Personas que les gusta ser atendidos de excelente manera, buscan siempre hacer las cosas de la manera mas rapida posible, usan las nuevas tecnologias a su favor y son personas muy trabajadoras.
 
 
 ## Wireframes
