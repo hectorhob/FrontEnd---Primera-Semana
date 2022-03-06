@@ -39,6 +39,9 @@
 
 
 ## Buyer Persona
+### Descripcion: Omar Ortiz. Edad 35 años. Socio y abogado de un despacho juridico. Omar es una persona super energica. Siempre le gusta darlo todo en todo lo que hace, esto se ve reflejado en su trabajo, ya que es reconocido por sus colegas y clientes por siempre resolver sus asuntos en tiempo y forma. Estudio la licenciatura de abogado porque siempre sintio el llamado de ayudar a la gente que lo necesita en el ambito de la ley. Aprecia mucho su tiempo ya que le gusta pasar tiempo con su familia y amigos en cada ocacion que le es posible. Tiene una novia de hace años y actualmente estan pensando en casarse para formar su propia familia.
+
+### Habilidades:
 
 ## Publico Objetivo
 ### Perfil Geografico:
