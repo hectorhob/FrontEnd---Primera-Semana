@@ -49,8 +49,11 @@
 
 ## Publico Objetivo
 <strong>Perfil Geografico:</strong> Personas que vivan en Guanajuato de zonas urbanizadas.
+
 <strong>Perfil Demografico:</strong> Personas entre 20 a 50 años, con ingresos mayores a 20 mil pesos al mes, dueños o trabajadores de grandes emprezas o negocios y que tengan su propia vivienda.
+
 <strong>Perfil Psicografico:</strong> Personas que prioricen su tiempo, que sean nuevos o viejos en cuestion de problemas legales y que sobre todo que sean abiertos a intentar cosas nuevas.
+
 <strong>Perfil de comportamento:</strong> Personas que les gusta ser atendidos de excelente manera, buscan siempre hacer las cosas de la manera mas rapida posible, usan las nuevas tecnologias a su favor y son personas muy trabajadoras.
 
 
