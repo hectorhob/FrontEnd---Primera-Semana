@@ -58,5 +58,5 @@
 
 
 ## Wireframes
-https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/Home.png
+![Home](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/Home.png)
 ## User Interface
