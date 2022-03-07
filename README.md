@@ -67,3 +67,9 @@
 
 
 ## User Interface
+![principal](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/principal.png)
+![nueva](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/crear%20cuenta.png)
+![inciar sesion](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/inicio%20sesion.png)
+![inicio](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/inicio.png)
+![solicitud](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/nueva%20solicitud.png)
+![informacion](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/UI/informacion%20demanda.png)
