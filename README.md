@@ -58,5 +58,12 @@
 
 
 ## Wireframes
+
+![login](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/Login.png)
+![new_accoun](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/New%20account.png)
 ![Home](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/Home.png)
+![new_process](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/New%20process.png)
+![process_info](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/Wireframe/Process%20info.png)
+
+
 ## User Interface
