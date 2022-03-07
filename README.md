@@ -56,6 +56,8 @@
 
 <strong>Perfil de comportamiento:</strong> Personas que les gusta ser atendidos de excelente manera, buscan siempre hacer las cosas de la manera más rápida posible, usan las nuevas tecnologías a su favor y son personas muy trabajadoras.
 
+![publico](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/publico%20objetivo.png)
+
 
 ## Wireframes
 
