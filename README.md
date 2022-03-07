@@ -47,6 +47,8 @@
 
 <strong>Frustraciones:</strong> No haber podido consolidar aun el hecho de tener su familia, la falta de tiempo para dedicarse a los pasatiempos que más le gustan y tener que lidiar con cuestiones legales de procesos largos y tediosos.
 
+![buyer](https://github.com/hectorhob/FrontEnd---Primera-Semana/blob/main/buyer.png)
+
 ## Publico Objetivo
 <strong>Perfil Geográfico:</strong> Personas que vivan en Guanajuato de zonas urbanizadas.
 
